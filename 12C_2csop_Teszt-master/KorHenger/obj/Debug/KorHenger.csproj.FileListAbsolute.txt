@@ -1,0 +1,7 @@
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\KorHenger\bin\Debug\KorHenger.exe.config
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\KorHenger\bin\Debug\KorHenger.exe
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\KorHenger\bin\Debug\KorHenger.pdb
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\KorHenger\obj\Debug\KorHenger.csproj.AssemblyReference.cache
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\KorHenger\obj\Debug\KorHenger.csproj.CoreCompileInputs.cache
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\KorHenger\obj\Debug\KorHenger.exe
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\KorHenger\obj\Debug\KorHenger.pdb

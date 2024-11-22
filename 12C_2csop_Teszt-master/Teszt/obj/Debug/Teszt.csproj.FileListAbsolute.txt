@@ -1,0 +1,7 @@
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\Teszt\bin\Debug\Teszt.exe.config
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\Teszt\bin\Debug\Teszt.exe
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\Teszt\bin\Debug\Teszt.pdb
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\Teszt\obj\Debug\Teszt.csproj.AssemblyReference.cache
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\Teszt\obj\Debug\Teszt.csproj.CoreCompileInputs.cache
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\Teszt\obj\Debug\Teszt.exe
+C:\Users\2021152\Source\Repos\vezendimate\vj-kjlhlvb\12C_2csop_Teszt-master\Teszt\obj\Debug\Teszt.pdb
